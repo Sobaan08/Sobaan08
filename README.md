@@ -55,7 +55,7 @@ $ _
 $ make build-all
 
 [BUILDING] geospatial-ai-dss..............  [IN PROGRESS] React · FastAPI · PostGIS · XGBoost · LightGBM
-[BUILDING] iot-environmental-network......  [SUCCESS]     Sensor network + GIS risk prediction
+[BUILDING] iot-environmental-network......  [IN PROGRESS] Sensor network + GIS risk prediction
 [BUILDING] realtime-threat-detection......  [SUCCESS]     YOLO · EfficientNet
 [BUILDING] lifi-prototype.................  [SUCCESS]     🥇 1st place, GMRT Science Exhibition
 [BUILDING] humanoid-robotics-rnd..........  [SUCCESS]     IoT integration @ PHN Technology
