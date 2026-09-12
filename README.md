@@ -27,7 +27,7 @@ $ _
 
 ---
 
-## 📋 Datasheet — SOBAAN
+## 📋 Datasheet
 
 | Parameter | Spec |
 |---|---|
@@ -60,7 +60,7 @@ $ make build-all
 [BUILDING] lifi-prototype.................  [SUCCESS]     🥇 1st place, GMRT Science Exhibition
 [BUILDING] humanoid-robotics-rnd..........  [SUCCESS]     IoT integration @ PHN Technology
 
-Build finished: 4 succeeded, 1 in progress, 0 failed
+Build finished: 4 succeeded, 2 in progress, 0 failed
 ```
 
 ---
