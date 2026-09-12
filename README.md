@@ -1,16 +1,72 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sobaan08/Sobaan08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# SOBAAN JAGIRDAR
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+$ esp32-sobaan --boot
+
+[   0.001] Booting SobaanOS v3.0 (B.Tech CSE — AI & Data Science, MIT-WPU)
+[   0.045] Initializing peripherals...
+[   0.112] [OK]   Sensors calibrated — Arduino · ESP32 · ESP8266 · Raspberry Pi
+[   0.209] [OK]   Fabrication toolchain online — 3D printing · laser cutting · soldering · metal work
+[   0.317] [OK]   Loading ML weights — scikit-learn · XGBoost · LightGBM · OpenCV
+[   0.402] [OK]   Mounting web stack — React · FastAPI · PostGIS
+[   0.488] [OK]   Role registered — Student Placement Rep, CIAP @ MIT-WPU
+[   0.501] [WARN] Coffee levels critical
+[   0.560] [OK]   System ready. Awaiting next build.
+
+$ _
+```
+
+<p align="center">
+  <a href="mailto:sobaanjagirdar008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Sobaan08"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 📋 Datasheet — SOBAAN-01
+
+| Parameter | Spec |
+|---|---|
+| **Model** | SOBAAN-01 |
+| **Category** | AI/ML Engineer · Embedded Systems |
+| **Input** | Curiosity, caffeine, unresolved bugs |
+| **Output** | Trained models, working PCBs, occasional chaos |
+| **Core Languages** | Python, C |
+| **Operating Voltage** | Stable under deadline pressure |
+| **Tolerance** | ±0% for sloppy code |
+| **Certifications** | 🥇 1st place, GMRT Science Exhibition (Li-Fi prototype) |
+| **Current Firmware** | Geospatial AI decision-support system (SIH 2025) |
+| **Known Issues** | Occasionally ships before fully testing |
+| **Status** | 🟢 Actively accepting AI/ML internships |
+
+---
+
+## 🛰️ My Tech Journey
+
+<img src="./circuit-trace.svg" alt="Circuit trace diagram of career milestones" width="100%">
+
+---
+
+## 🛠️ Build Log
+
+```
+$ make build-all
+
+[BUILDING] geospatial-ai-dss..............  [SUCCESS]     React · FastAPI · PostGIS · XGBoost · LightGBM
+[BUILDING] iot-environmental-network......  [IN PROGRESS] Sensor network + GIS risk prediction
+[BUILDING] realtime-threat-detection......  [SUCCESS]     YOLO · EfficientNet
+[BUILDING] lifi-prototype.................  [SUCCESS]     🥇 1st place, GMRT Science Exhibition
+[BUILDING] humanoid-robotics-rnd..........  [SUCCESS]     IoT integration @ PHN Technology
+
+Build finished: 4 succeeded, 1 in progress, 0 failed
+```
+
+---
+
+<p align="center">
+  <i>AI engineer in training. Breaks things, fixes things. Currently obsessed with ML, computer vision, and IoT/embedded systems.</i>
+</p>
