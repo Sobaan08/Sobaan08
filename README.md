@@ -35,7 +35,7 @@ $ _
 | **Category** | AI/ML Engineer · Embedded Systems |
 | **Input** | Curiosity, caffeine, unresolved bugs |
 | **Output** | Trained models, working PCBs, occasional chaos |
-| **Core Languages** | Python, C |
+| **Core Languages** | Python, C, C++, Java, JavaScript|
 | **ML / DL** | Scikit-learn, XGBoost, CatBoost, Random Forest |
 | **Computer Vision** | OpenCV, YOLO, EfficientNet |
 | **Web & GIS Stack** | React, FastAPI, PostGIS, WebGIS |
