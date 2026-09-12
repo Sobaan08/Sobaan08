@@ -11,7 +11,7 @@ $ esp32-sobaan --boot
 [   0.045] Initializing peripherals...
 [   0.112] [OK]   Sensors calibrated — Arduino · ESP32 · ESP8266 · Raspberry Pi
 [   0.209] [OK]   Fabrication toolchain online — 3D printing · laser cutting · soldering · metal work
-[   0.317] [OK]   Loading ML weights — scikit-learn · XGBoost · LightGBM · OpenCV
+[   0.317] [OK]   Loading ML weights — scikit-learn · XGBoost · OpenCV
 [   0.402] [OK]   Mounting web stack — React · FastAPI · PostGIS
 [   0.488] [OK]   Role registered — Student Placement Rep, CIAP @ MIT-WPU
 [   0.501] [WARN] Coffee levels critical
