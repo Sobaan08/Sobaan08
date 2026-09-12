@@ -27,7 +27,7 @@ $ _
 
 ---
 
-## 📋 Datasheet — SOBAAN-01
+## 📋 Datasheet — SOBAAN JAGIRDAR
 
 | Parameter | Spec |
 |---|---|
@@ -42,12 +42,6 @@ $ _
 | **Current Firmware** | Geospatial AI decision-support system (SIH 2025) |
 | **Known Issues** | Occasionally ships before fully testing |
 | **Status** | 🟢 Actively accepting AI/ML internships |
-
----
-
-## 🛰️ My Tech Journey
-
-<img src="./circuit-trace.svg" alt="Circuit trace diagram of career milestones" width="100%">
 
 ---
 
