@@ -36,9 +36,13 @@ $ _
 | **Input** | Curiosity, caffeine, unresolved bugs |
 | **Output** | Trained models, working PCBs, occasional chaos |
 | **Core Languages** | Python, C |
+| **ML / DL** | Scikit-learn, XGBoost, CatBoost, Random Forest |
+| **Computer Vision** | OpenCV, YOLO, EfficientNet |
+| **Web & GIS Stack** | React, FastAPI, PostGIS, WebGIS |
+| **Hardware / IoT** | Arduino, ESP32, ESP8266, Raspberry Pi, Arduino Cloud |
+| **Fabrication** | 3D printing, laser cutting/engraving, soldering, Heavy metal work |
 | **Operating Voltage** | Stable under deadline pressure |
 | **Tolerance** | ±0% for sloppy code |
-| **Certifications** | 🥇 1st place, GMRT Science Exhibition (Li-Fi prototype) |
 | **Current Firmware** | Geospatial AI decision-support system (SIH 2025) |
 | **Known Issues** | Occasionally ships before fully testing |
 | **Status** | 🟢 Actively accepting AI/ML internships |
