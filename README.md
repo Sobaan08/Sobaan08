@@ -20,15 +20,18 @@ $ esp32-sobaan --boot
 $ _
 ```
 
-<p align="center"> <a href="mailto:sobaanjagirdar008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/mohammed-sobaan-jagirdar-0708a82b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
+<p align="center">
+  <a href="mailto:sobaanjagirdar008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohammed-sobaan-jagirdar-0708a82b1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## 📋 Datasheet — SOBAAN JAGIRDAR
+## 📋 Datasheet — SOBAAN
 
 | Parameter | Spec |
 |---|---|
-| **Model** | SOBAAN-01 |
+| **Model** | SOBAAN |
 | **Category** | AI/ML Engineer · Embedded Systems |
 | **Input** | Curiosity, caffeine, unresolved bugs |
 | **Output** | Trained models, working PCBs, occasional chaos |
